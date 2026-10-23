@@ -1,8 +1,8 @@
 # Getting started
 
-Use Flutter 3.44 or later, Dart 3.12.2 or later, Android API 24 or later, or iOS 16 or later. The package is a Flutter plugin; its text API also runs through the native SDK, without opening a camera. Web, Windows, Linux and macOS production support are not included in v2.0.0.
+Use Flutter 3.44 or later, Dart 3.12.2 or later, Android API 24 or later, or iOS 16 or later. The package is a Flutter plugin; its text API also runs through the native SDK, without opening a camera. Web, Windows, Linux and macOS production support are not included in v2.0.1.
 
-Add `ares_math: ^2.0.0` to `dependencies` in your app's pubspec.yaml and run `flutter pub get`. Configure the signed key after Flutter binding initialization:
+Add `ares_math: ^2.0.1` to `dependencies` in your app's pubspec.yaml and run `flutter pub get`. Configure the signed key after Flutter binding initialization:
 
 ```dart
 WidgetsFlutterBinding.ensureInitialized();

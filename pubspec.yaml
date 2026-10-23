@@ -1,0 +1,9 @@
+{
+  "name": "ares_math",
+  "version": "2.0.1",
+  "description": "Commercial on-device equation camera scanner and text-solving SDK for Flutter Android and iOS.",
+  "homepage": "https://aresdefencelabs.com/",
+  "repository": "https://github.com/Ares-Defence-Labs/AresMath",
+  "issue_tracker": "https://github.com/Ares-Defence-Labs/AresMath/issues",
+  "documentation": "https://aresdefencelabs.com/development-sdks?sdk=math-scanner&view=overview"
+}

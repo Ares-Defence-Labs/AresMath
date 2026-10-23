@@ -1,6 +1,6 @@
 # Third-party notices
 
-AresMath includes or integrates the following separately licensed components. Their original notices are retained in the distributed SDK package and with the model pack.
+AresMath includes or integrates the following separately licensed components. Their original notices are retained under notices/ and with the model pack.
 
 - CoMER handwritten mathematical expression recognition, quantized encoder/decoder and vocabulary: Apache License 2.0; see distribution/android/ink_math_handwriting/src/main/assets/models/LICENSE.comer.txt.
 - flutter_onnxruntime adapter: see notices/flutter_onnxruntime-LICENSE and notices/flutter_onnxruntime-NOTICE where supplied.

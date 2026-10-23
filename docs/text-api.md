@@ -30,6 +30,6 @@ Arithmetic supports decimal constants, parentheses, addition, subtraction, multi
 
 Near-zero polynomial coefficients/discriminants and ambiguous floating-point constant equalities request manual review rather than claiming an unreliable root.
 
-General systems of equations, arbitrary variables/powers, calculus, trigonometry, complex roots and general symbolic algebra are outside the v2.0.0 contract. Division by zero and unsupported syntax request manual review; they do not produce invented numerical answers. OCR uncertainty should be resolved by correcting the equation.
+General systems of equations, arbitrary variables/powers, calculus, trigonometry, complex roots and general symbolic algebra are outside the v2.0.1 contract. Division by zero and unsupported syntax request manual review; they do not produce invented numerical answers. OCR uncertainty should be resolved by correcting the equation.
 
 After an unlicensed 60-second process-wide trial, solving throws AresMathLicenceException. The gate lives inside the compiled native core and also applies to direct solver calls.
