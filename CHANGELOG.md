@@ -1,5 +1,13 @@
 # Changelog
 
+## 2.0.3 — 2026-10-23
+
+- Redesign the supplied scanner around a full camera preview with transparent top controls, 15% larger back/flash buttons, a compact status pill, corner guides and an Ink Math footer.
+- Show equation detection and a visible capture countdown with a working Cancel action; cancelled equations remain available for manual capture without restarting the timer.
+- Use a black capture symbol on the white shutter and preserve equation correction, gallery, result review and embedded scanner integration.
+
+AresMath v2.0.3
+
 ## 2.0.2 — 2026-10-23
 
 - Document host JNI packaging when Math and another native SDK both bundle the shared C++ runtime.

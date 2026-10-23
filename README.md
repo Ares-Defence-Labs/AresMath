@@ -24,14 +24,14 @@ Open **AresMathScreen** for the supplied AresScan+ style scanner, or use
 **AresMathEmbedded** for a camera under your own UI. Both use the same recognition,
 review and native solving engine. Your app handles the returned result.
 
-**Package:** `ares_math` v2.0.2 is a self-contained Android/iOS SDK.
+**Package:** `ares_math` v2.0.3 is a self-contained Android/iOS SDK.
 Install it from pub.dev; the GitHub repository provides documentation and support,
 rather than the SDK implementation. No `ares_edge` package or Edge licence is
 required. See [release status](https://github.com/Ares-Defence-Labs/AresMath/blob/main/docs/release-status.md).
 
 ```yaml
 dependencies:
-  ares_math: ^2.0.2
+  ares_math: ^2.0.3
 ```
 
 ## Choose your scanner integration
