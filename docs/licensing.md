@@ -8,7 +8,7 @@ AresMath is a proprietary commercial SDK from Ares Defence Labs. Both the camera
 | Signed product claim | `AresMathSDK` |
 | Customer token prefix | `AMATH2` |
 | Package | `ares_math` |
-| Version | `2.0.1` |
+| Version | `2.0.2` |
 
 Use the complete signed customer token in AresMath.configure or AresMath.scan, or supply the ARES_MATH_LICENCE_KEY build define. Licence verification runs natively and offline against the pinned issuer. It checks signature, product/prefix, host/customer scope, issue time, annual term/expiry and supported owner bindings. It does not send the key, equation or photograph to a licence server for normal operation.
 

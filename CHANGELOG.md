@@ -1,5 +1,29 @@
 # Changelog
 
+## 2.0.2 — 2026-10-23
+
+- Document host JNI packaging when Math and another native SDK both bundle the shared C++ runtime.
+
+- Acknowledge only Pub’s exact docs-directory naming warning after full validation; fail on every other warning or validation error.
+
+- Publish the common SDK documentation layout and complete integration examples in the v2.0.2 customer package.
+
+- Document authenticated retry timing and operational recovery without editing release records.
+
+- Update release evidence documentation for the current Worker and Python verification suites.
+
+- Measure resumed release verification against the authenticated current workflow attempt instead of the original reservation time.
+
+- Read the documented Math licence build define in the runnable example and remove its stale version label.
+
+- Match the AresIdentity documentation header and section order, with complete route, embedded-camera and text API examples.
+
+- Hold a temporary Mac sleep assertion only while native release checks run and release it on success or failure.
+- Keep generated example CocoaPods self-version metadata out of source attestation and preserve resolved source/consumer pod locks as release evidence.
+- Restore the isolated publication dependency cache after setup-dart and report any unexpected dirty-source paths.
+
+AresMath v2.0.2
+
 ## 2.0.1 — 2026-10-22
 
 - Add AresMathEmbedded and AresMathController for host-owned camera layouts and capture/result callbacks without SDK navigation.
